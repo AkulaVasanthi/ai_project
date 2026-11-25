@@ -1,0 +1,6 @@
+{
+  "name": "AI Learning Memory Graph",
+  "description": "Integrated AI learning platform with document RAG, live transcription, Zoom & Google Meet recording workflows, live AI notes, interactive knowledge graphs, visual learning, quizzes, flashcards, and learning analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
